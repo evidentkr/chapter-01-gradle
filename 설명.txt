@@ -1,0 +1,6 @@
+BoardController 에서
+텍스트리턴
+단일 json 리턴
+복수 json 리턴
+
+롬복 사용
